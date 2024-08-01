@@ -2,7 +2,7 @@
 
 Meu nome é Gabriel Gonçalves Ferreira
 
--Estou estudando no github.
+-Estou desenvolvendo no github.
 
 -Estou desenvolvendo na linguagem javaScript
 
