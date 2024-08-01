@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil
 
-<!--
-**gabrielgonsfe07/gabrielgonsfe07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gabriel Gonçalves Ferreira
 
-Here are some ideas to get you started:
+-Estou estudando no github.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou desenvolvendo na linguagem javaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar contato comigo em 📬 
+
+gabrielgonsfer@gmail.com
+
+![](https://media1.tenor.com/m/WhiyfniWxJsAAAAC/mr-bean.gif)
