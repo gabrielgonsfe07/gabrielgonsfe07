@@ -12,4 +12,3 @@ Meu nome é Gabriel Gonçalves Ferreira
 
 gabrielgonsfer@gmail.com
 
-![](https://media1.tenor.com/m/WhiyfniWxJsAAAAC/mr-bean.gif)
